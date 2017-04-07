@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionDemo</string>
+    <string name="intro">这个程序用于测试权限适配</string>
+    <string name="camera_unavailable">camera打不开</string>
+</resources>
